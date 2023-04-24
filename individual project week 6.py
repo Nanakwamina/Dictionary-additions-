@@ -26,7 +26,7 @@ list_length = number_of_months
 #while another_month == 'yes':
 for i in range(list_length):
         planned_sales_month = int(input('Enter planned sales quantity for the month: '))
-        list_of_planned_sales.append(planned_sales_month)
+        #list_of_planned_sales.append(planned_sales_month)
         #another_month = input('please enter yes or no if you have more sales quantities for proceeding months: ')
 
         #if another_month == 'yes':
